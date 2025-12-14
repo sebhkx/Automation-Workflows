@@ -1,5 +1,5 @@
 This workflow is to use vcs to generate thumbnail previews.
-
+Workflow app: change to pass input as arguments!
 ```
 brew install vcs
 ```
